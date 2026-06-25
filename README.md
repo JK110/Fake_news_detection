@@ -13,8 +13,7 @@ A powerful fake news detection tool that combines **Optical Character Recognitio
 
 ## 🚀 Live Demo
 
-**[Try the Live Demo Here](https://huggingface.co/spaces/jk2951/fnd_12)** *(Replace with your actual Hugging Face Spaces link if deployed)*
-
+**[Try the Live Demo Here](https://huggingface.co/spaces/jk2951/fnd_12)** 
 ## 🛠️ Technology Stack
 
 | Component | Technology |
